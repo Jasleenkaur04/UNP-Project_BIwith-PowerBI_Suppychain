@@ -13,4 +13,4 @@ Dashboarding:-
 After calculating the KPIs, using visualizations various Charts such as stacked column chart, Pie chart and line chart were used and slicers for Order region, order date and category name were in the dashboard for an intricate understanding of the dataset. Through these charts various insights were gathered about the sales, ordrers,etc.
 PBIX file :- 
 
-PPT :-
+PPT :-https://drive.google.com/file/d/1RRNVYuGLhybhfAQFHvoi2klwyE0_5maQ/view?usp=sharing
